@@ -117,8 +117,20 @@
 
 //          OR
 // let arr=[2,3,4,5,6];
-// arr.forEach(function(element){
-//     console.log(element);
+// arr.forEach(function(element,index,array){
+//     console.log(element,index,array);
 // }
 // );
+// console.log("DONE")
+
+
+// let obj={
+//     name:"RISHABH",
+//     age:21,
+//     type:"Dangerous Programmer",
+//     os:"Ubuntu"
+// }
+// for(let key in obj){
+//     console.log(`${key} of object is ${obj[key]}`);
+// }
 // console.log("DONE")
